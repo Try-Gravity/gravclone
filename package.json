@@ -1,0 +1,24 @@
+{
+  "name": "gravclone",
+  "version": "0.3.0",
+  "description": "Clone any publisher site with live AI responses and Gravity ads injected — one command",
+  "bin": {
+    "gravclone": "bin/gravclone.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "gravity",
+    "ads",
+    "publisher",
+    "clone",
+    "ai"
+  ],
+  "author": "Gravity <myles@trygravity.ai>",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
