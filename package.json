@@ -16,6 +16,10 @@
     "ai"
   ],
   "author": "Gravity <myles@trygravity.ai>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Try-Gravity/gravclone.git"
+  },
   "type": "module",
   "license": "MIT",
   "engines": {
