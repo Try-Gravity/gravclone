@@ -2,4 +2,5 @@ node_modules/
 *.log
 .DS_Store
 dist/
-.cogni/daimon/
+.cogni/
+.cogni_metrics.jsonldaimon/
